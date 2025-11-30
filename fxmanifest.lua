@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'futrdesigns'
-description 'Modern Progress Bar for FiveM'
+description 'Modern Progress Bar'
 version '1.0.0'
 
 client_scripts {
@@ -14,4 +14,5 @@ exports {
     'ShowProgressBar',
     'StopProgressBar',
     'IsProgressBarShowing'
+
 }
